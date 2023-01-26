@@ -1,0 +1,132 @@
+
+
+/* HEADER */
+
+header{
+    text-align: center;
+    font-family: geneva, sans-serif;
+    color: black;
+    background-color: rgb(160, 180, 180);
+    padding-top: 20px;
+}
+
+/* características por clase */
+
+.class_header_foto{
+    max-width: 1000px;
+    width: 15cm;
+    align-items: center;
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+
+
+
+
+/* MAIN - DIV */
+
+main{
+    background-color: rgb(245, 244, 244);
+    font-family: Geneva, sans-serif;
+    color: black;
+    padding: 50px;
+    border-top: white solid;
+    border-bottom: white solid;
+    border-width: 20px;
+}
+
+div{
+    max-width: 1000px;
+    font-family: Geneva, sans-serif;
+    color: black;
+    overflow: hidden;
+    margin: auto;
+}
+
+h3{
+    color: black;
+    font-family: Geneva, sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+    text-decoration: underline;
+    text-align: left;
+}
+
+p{
+    font-family: Geneva, sans-serif;
+    text-align: justify;
+    float: right;
+}    
+
+/* características por clase */
+
+.class_descripción_h4{
+    font-family: Geneva, sans-serif;
+    font-style: italic;
+    font-size: 13px;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.class_p_descripción{
+    font-family: Geneva, sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+
+.imagen_michis{
+    width: 11cm;
+    float: left;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+/* características por id */
+
+#id_listas{
+    font-size: 12px;
+    font-family: Geneva, sans-serif;
+    font-style: light;
+    text-align: justify;
+    padding: 3px;
+}
+
+
+
+
+/* FOOTER */
+
+footer{
+    background-color: rgb(160, 180, 180);
+}
+
+/* caracterpsísticas por clase */
+
+.footer_class_1 {
+    font-size: 12px;
+    padding-top: 15px;
+    text-align: center;
+    font-family: Geneva, sans-serif;
+    color: white;
+}
+
+.footer_link {
+    font-size: 13px;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Geneva, sans-serif;
+    color: white;
+}
+
+.footer_class_2 {
+    font-size: 12px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: Geneva, sans-serif;
+    color: white;
+}
